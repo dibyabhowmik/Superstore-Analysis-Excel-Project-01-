@@ -58,4 +58,45 @@ The main dataset contains 9,994 order-level records and 23 fields, covering orde
 - Used conditional aggregation to answer business questions.
 - Used lookup functions to retrieve product-related information.
 - Created consolidated regional reports.
-- Applied conditional
+- Applied conditional formatting to highlight important values.
+- Used VBA/macros to automate repetitive Excel tasks.
+
+---
+
+## Key Insights
+
+| Metric / Finding | Result |
+|---|---:|
+| Total Sales | Approximately 2.30 million |
+| Total Profit | Approximately 286.4 thousand |
+| Unique Orders | 5,009 |
+| Unique Customers | 793 |
+| Technology Total Profit | Approximately 145.5 thousand |
+| Office Supplies Total Profit | Approximately 122.5 thousand |
+| Furniture Total Profit | Approximately 18.5 thousand |
+| West Region Total Profit | Approximately 108.4 thousand |
+| Consumer Segment Total Sales | Approximately 1.16 million |
+| Consumer Segment Total Profit | Approximately 134.1 thousand |
+| Copiers Total Profit | Approximately 55.6 thousand |
+| 2017 Annual Sales | Approximately 733.2 thousand |
+| 2017 Annual Profit | Approximately 93.4 thousand |
+| Sales and Profit Correlation | Approximately 0.48 |
+
+### Additional Findings
+
+- Technology generated the highest total profit among the three categories.
+- Furniture generated substantially lower profit despite generating significant sales.
+- The West region generated the highest total profit.
+- The Consumer segment generated the highest total sales and total profit.
+- Copiers generated the highest total profit among sub-categories.
+- 2017 recorded the highest annual sales and annual profit.
+- The relationship between Sales and Profit was positive, with a correlation of approximately 0.48, indicating that higher sales generally tended to accompany higher profit, although the relationship was not perfect.
+- Discount levels varied substantially across categories and regions, making discount management an important profitability consideration.
+
+---
+
+## Business Takeaway
+
+The analysis shows that strong sales do not automatically translate into strong profitability. Category, region, product mix, and discount levels all influence financial performance.
+
+The results can help management focus on profitable products, monitor discount practices, and understand regional and segment-level performance.
