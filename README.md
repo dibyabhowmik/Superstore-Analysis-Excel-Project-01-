@@ -1,64 +1,64 @@
-                                                          **  **Superstore Sales & Profit Analysis****
+                                                          **Superstore Sales & Profit Analysis**
 
 
-**Project Overview:**
+•	**Project Overview:**
 
 
 This project analyzes the Superstore sales dataset to understand sales performance, profitability, customer segments, regional performance, product categories, discounts, and sales trends.
 
 The main dataset contains 9,994 order-level records and 23 fields, covering orders from 2014 to 2017.
 
-**Objectives:**
+•	**Objectives:**
 
 
-Measure overall sales and profitability.
+1.	Measure overall sales and profitability.
 
-Identify high-performing categories, sub-categories, regions, and
-customer segments.
+2.	Identify high-performing categories, sub-categories, regions, and
+3.	customer segments.
 
-Analyze sales and profit trends over time.
+4.	Analyze sales and profit trends over time.
 
-Understand the effect of discount levels on profitability.
+5.	Understand the effect of discount levels on profitability.
 
-Compare average sales and average profit across business dimensions.
+6.	Compare average sales and average profit across business dimensions.
 
-Analyze the relationship between Sales and Profit.
+7.	Analyze the relationship between Sales and Profit.
 
-Build a concise business-focused view of sales performance and
-profitability.
+8.	Build a concise business-focused view of sales performance and
+9.	profitability.
 
-**Tools & Techniques Used:**
+•	**Tools & Techniques Used:**
 
 
-Microsoft Excel
+1.	Microsoft Excel
 
-Data cleaning and validation
+2.	Data cleaning and validation
 
-Sorting and filtering
+3.	Sorting and filtering
 
-Excel formulas
+4.	Excel formulas
 
-Date functions
+5.	Date functions
 
-Logical functions
+6.	Logical functions
 
-Lookup functions
+7.	Lookup functions
 
-Conditional aggregation
+8.	Conditional aggregation
 
-PivotTables and PivotCharts
+9.	PivotTables and PivotCharts
 
-Conditional formatting
+10.	Conditional formatting
 
-Subtotals
+11.	Subtotals
 
-Consolidated reports
+12.	Consolidated reports
 
-VBA/macros
+13.	VBA/macros
 
-Sales and profit visualizations
+14.	Sales and profit visualizations
 
-**Process:**
+•	**Process:**
 
 
 **1. Data Preparation:**
@@ -95,7 +95,7 @@ Applied conditional formatting to highlight important values.
 
 Used VBA/macros to automate repetitive Excel tasks.
 
-**Key Insights:**
+•	**Key Insights:**
 
 Total Sales were approximately 2.30 million.
 
@@ -133,7 +133,7 @@ relationship was not perfect.
 Discount levels varied substantially across categories and regions,
 making discount management an important profitability consideration.
 
-**Business Takeaway:**
+•	**Business Takeaway:**
 
 The analysis shows that strong sales do not automatically translate into strong profitability. Category, region, product mix, and discount levels all influence financial performance. The results can help management focus on profitable products, monitor discount practices, and understand
 regional and segment-level performance.
